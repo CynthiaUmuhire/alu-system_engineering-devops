@@ -12,4 +12,8 @@ sudo mkdir /var/www/html
 sudo touch /var/www/html/index.html
 #Display your message then
 sudo echo "Holberton School" > /var/www/html/index.html
+<<<<<<< HEAD
 sudo service nginx restart
+=======
+sudo service nginx restart
+>>>>>>> 2c04f50767e1d7ffb2198e0ffdc330534aa40668
